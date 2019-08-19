@@ -1,0 +1,1 @@
+# use-global-and-local-variables-in-javascript
